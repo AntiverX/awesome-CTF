@@ -24,7 +24,7 @@
 提交所有的文件到本地仓库
 >git commit
 
-提交所有的变更到github仓库
+提交所有的变更到github仓库，使用该命令后会弹出个vim让你填写变更信息，简要说明提交的变更内容即可
 >git push
 
 如需提交变更到主分支，请到github上pull request
