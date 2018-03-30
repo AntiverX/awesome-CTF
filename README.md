@@ -36,6 +36,9 @@
     + Resource存放markdown中的图片等资源
     + WriteUp.md即为题解
 
+你可能需要了解一些[markdown语法](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%E4%BB%80%E4%B9%88%E6%98%AF-markdown)
+
+markdown撰写软件推荐VS Code
 
 ## 注意事项
 
