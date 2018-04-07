@@ -15,6 +15,10 @@ Link : http://web2.quals18.ctfsecurinets.com:5000
 
 # Content
 
+![](Resource/1.jpg)
+
+![](Resource/2.jpg)
+
 [//]: <> (WriteUp内容)
 
 Open the link, open the developer console, and play a few games. Notice that the communication to the server happens
