@@ -36,6 +36,23 @@
     + Resource存放markdown中的图片等资源
     + WriteUp.md即为题解
 
+你可能需要了解一些[markdown语法](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/markdown-basics?id=%E4%BB%80%E4%B9%88%E6%98%AF-markdown)
+
+markdown撰写软件推荐VS Code
+
+## 相关图书
+
+* 深入理解计算机系统
+* 程序员自我修养
+* 加密与解密
+* 漏洞战争
+* 汇编语言
+* 0day安全：软件漏洞分析技术
+* C++反汇编与逆向技术分析解密
+
+## 相关论坛
+
+* [雪安全论坛](https://bbs.pediy.com/)
 
 ## 注意事项
 

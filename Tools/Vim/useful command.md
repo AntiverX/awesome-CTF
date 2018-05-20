@@ -1,0 +1,1 @@
+Ctrl+S锁屏，Crtl+Q解锁
